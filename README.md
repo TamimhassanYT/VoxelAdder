@@ -1,79 +1,29 @@
-# 🧱 VoxelAdder
+# VoxelAdder 🧱
 
-**VoxelAdder** is a powerful and flexible plugin that brings custom content into Minecraft effortlessly.  
-Create and integrate blocks, items, GUIs, armors, and more—without worrying about compatibility issues.
+VoxelAdder is a powerful, all-in-one solution designed to bring custom content into Minecraft effortlessly. Whether you are a server owner or a developer, VoxelAdder allows you to expand the game's limits without the headache of compatibility issues.
 
----
+## 🚀 Key Features
 
-## ✨ Features
+* **✨ Custom Content:** Add blocks, items, GUIs, armors, and more with zero effort.
+* **📱 Cross-Platform Support:** Seamless integration for **Minecraft Bedrock / Pocket Edition** users via the **GeyserMC** plugin. Your custom content works on mobile in just a few clicks.
+* **🌍 Universal Export System:** A flexible system that makes your creations usable across a wide range of platforms:
+    * **Servers:** Paper, Spigot, Folia, Arclight.
+    * **Proxies:** Velocity, BungeeCord, Waterfall.
+    * **Mod Loaders:** Forge, Fabric, NeoForge.
+    * **Vanilla:** Fully compatible with vanilla Minecraft environments.
 
-- 🧩 Add custom **blocks, items, GUIs, armors**, and more
-- ⚙️ Designed for **maximum compatibility**
-- 🌐 Cross-platform support (Java ↔ Bedrock/Pocket Edition)
-- 📦 Flexible export system for multiple platforms
-- 🚀 Easy integration with existing servers and setups
+## 🛠️ Installation
 
----
+1. Download the latest release.
+2. Place the jar file into your server's `plugins` folder.
+3. Restart the server and start creating!
 
-## 🌍 Cross-Platform Support
+## ⚖️ License & Credits
 
-VoxelAdder works seamlessly across platforms.  
-With **GeyserMC**, your custom content can be used in:
-
-- Minecraft Java Edition
-- Minecraft Bedrock Edition
-- Minecraft Pocket Edition
-
-All with minimal setup.
-
----
-
-## 🔌 Supported Platforms & Loaders
-
-VoxelAdder supports a wide range of ecosystems:
-
-- Forge
-- Fabric
-- NeoForge
-- Paper
-- Spigot
-- Folia
-- Velocity
-- BungeeCord
-- Waterfall
-- Arclight
-- Vanilla Minecraft
-
----
-
-## 📦 Export System
-
-VoxelAdder includes a powerful export system that allows your creations to be used across multiple platforms without extra hassle.
-
-- Export once, use anywhere
-- Optimized for performance and compatibility
-- Works across modded and plugin-based environments
-
----
-
-## ⚠️ Important Note
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 > [!IMPORTANT]
-> **Developer Note:**
-> Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
+> **Developer Note:** > Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
 
 ---
-
-## 🚀 Getting Started
-
-1. Install VoxelAdder on your server
-2. Configure your custom content
-3. (Optional) Set up GeyserMC for cross-platform support
-4. Export and deploy your content
-5. Enjoy your enhanced Minecraft experience 🎮
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+*Created for the Minecraft Community.*
