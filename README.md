@@ -14,7 +14,7 @@ VoxelAdder is a powerful, all-in-one solution designed to bring custom content i
 
 ## 🛠️ Installation
 
-1. Download the latest release.
+1. Download the latest release from the [Releases](https://github.com/) page.
 2. Place the jar file into your server's `plugins` folder.
 3. Restart the server and start creating!
 
@@ -23,7 +23,8 @@ VoxelAdder is a powerful, all-in-one solution designed to bring custom content i
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 > [!IMPORTANT]
-> **Developer Note:** > Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
+> **Developer Note:**
+> Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
 
 ---
-*Created for the Minecraft Community.*
+*Created with ❤️ for the Minecraft Community.*
