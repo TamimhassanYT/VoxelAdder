@@ -26,4 +26,4 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 > **Developer Note:** > Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
 
 ---
-*Created with ❤️ for the Minecraft Community.*
+*Created for the Minecraft Community.*
