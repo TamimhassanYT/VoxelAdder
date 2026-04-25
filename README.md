@@ -58,9 +58,9 @@ VoxelAdder includes a powerful export system that allows your creations to be us
 
 ## ⚠️ Important Note
 
-> VoxelAdder is designed to simplify custom content creation, but proper configuration is still required for optimal performance.  
-> Compatibility may depend on your server setup, installed plugins/mods, and platform versions.  
-> Always test your configurations in a development environment before deploying to production.
+> [!IMPORTANT]
+> **Developer Note:**
+> Developed by **Tamim**. While this software is open-source and allows for redistribution, copying, and publishing, I kindly request that the original credit and name remain intact. **Merging into other projects, changing the license, or removing attribution is not recommended** and goes against the collaborative spirit of this project.
 
 ---
 
